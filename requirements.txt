@@ -1,0 +1,9 @@
+medmnist == 3.0.1
+scikit-image == 0.23.2
+scikit-learn > 1.2.2
+numpy
+torch
+torchvision
+opencv-python
+scipy
+wand > 0.6.10

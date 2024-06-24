@@ -1,0 +1,28 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "medmnistc"
+authors = [
+    {name = "Francesco Di Salvo", email = "francesco.di-salvo@uni-bamberg.de"}
+]
+description = "This Python library aims to evaluate model robustness under corrupted test sets and to enhance domain generalization through domain-specific augmentations."
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "medmnist == 3.0.1",
+    "scikit-image == 0.23.2",
+    "scikit-learn > 1.2.2",
+    "numpy",
+    "torch",
+    "torchvision",
+    "opencv-python",
+    "scipy",
+    "wand > 0.6.10"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/francescodisalvo05/medmnistc-api"
+"Issue Tracker" = "https://github.com/francescodisalvo05/medmnistc-api/issues"
