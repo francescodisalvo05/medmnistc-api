@@ -1,6 +1,6 @@
 # 🏥 MedMNIST-C 
 
-We introduce MedMNIST-C [[preprint](#TBD)], a `benchmark dataset` based on the MedMNIST+ collection covering `12 2D datasets and 9 imaging modalities`.  We simulate task and modality-specific image corruptions of varying severity to comprehensively evaluate the robustness of established algorithms against `real-world artifacts` and `distribution shifts`. We further show that our simple-to-use artificial corruptions allow for highly performant, lightweight `data augmentation` to enhance model robustness.
+We introduce MedMNIST-C [[preprint](https://arxiv.org/pdf/2406.17536)], a `benchmark dataset` based on the MedMNIST+ collection covering `12 2D datasets and 9 imaging modalities`.  We simulate task and modality-specific image corruptions of varying severity to comprehensively evaluate the robustness of established algorithms against `real-world artifacts` and `distribution shifts`. We further show that our simple-to-use artificial corruptions allow for highly performant, lightweight `data augmentation` to enhance model robustness.
 
 <p align="center">
    <img src="assets/images/wallpaper.gif" alt="Preview of image corruptions">
@@ -85,11 +85,11 @@ The MedMNIST-C dataset is licensed under Creative Commons Attribution 4.0 Intern
 
 If you find this work useful, please consider citing us:
 ```
-@article{,
-   title={},
-   author={},
-   journal={},
-   year={}
+@article{disalvo2024medmnist,
+  title={MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions},
+  author={Di Salvo, Francesco and Doerrich, Sebastian and Ledig, Christian},
+  journal={arXiv preprint arXiv:2406.17536},
+  year={2024}
 }
 ```
 
