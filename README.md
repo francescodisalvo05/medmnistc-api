@@ -6,6 +6,9 @@ We introduce MedMNIST-C [[preprint](https://arxiv.org/pdf/2406.17536)], a `bench
    <img src="assets/images/wallpaper.gif" alt="Preview of image corruptions">
 </p>
 
+> You can download the corrupted datasets from [Zenodo](https://zenodo.org/records/11471504). 
+Due to space constraints, we have uploaded all datasets except for TissueMNIST-C. However, You can still reproduce it using our APIs.
+
 ## Installation and Requirements
 
 ```
