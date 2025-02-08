@@ -88,11 +88,14 @@ The MedMNIST-C dataset is licensed under Creative Commons Attribution 4.0 Intern
 
 If you find this work useful, please consider citing us:
 ```
-@article{disalvo2024medmnist,
-  title={MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions},
-  author={Di Salvo, Francesco and Doerrich, Sebastian and Ledig, Christian},
-  journal={arXiv preprint arXiv:2406.17536},
-  year={2024}
+@misc{disalvo2024medmnistc,
+      title={MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions}, 
+      author={Francesco Di Salvo and Sebastian Doerrich and Christian Ledig},
+      year={2024},
+      eprint={2406.17536},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2406.17536}, 
 }
 ```
 
