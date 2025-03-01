@@ -88,6 +88,9 @@ class Evaluator:
         :param threshold: Operating point(s) based on the given task.
                           float if task == "binary-class"
                           list[float] if task == "multi-label, binary-class"
+                              Note: we use a list of operating points, as we may want to 
+                                    tune label-specific operating points. 
+                                    If that's not the case, just use [0.5] * num_labels
                           None if task == "multi-class" or task == "ordinal-regression"
         """
 
