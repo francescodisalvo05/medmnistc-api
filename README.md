@@ -78,6 +78,14 @@ augmented_img = aug_compose(images[0])
 * [Evaluate the corruptions](assets/examples/evaluation.ipynb)
 * [Use the designed augmentations](assets/examples/augment.ipynb)
 
+## Papers using MedMNIST-C
+
+| **Authors**  | **Paper** | **Venue** | 
+| ------------- | ------------- | ------------- |
+| Manzari et al.  | Medical image classification with kan-integrated transformers and dilated neighborhood attention | [ArXiv'25](https://arxiv.org/abs/2502.13693) |
+| Imam et al.  | On the Robustness of Medical Vision-Language Models: Are they Truly Generalizable? | [MIUA'25](https://arxiv.org/abs/2505.15425) | 
+| Zeevi et al.  | Rate-In: Information-Driven Adaptive Dropout Rates for Improved Inference-Time Uncertainty Estimation | [CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/papers/Zeevi_Rate-In_Information-Driven_Adaptive_Dropout_Rates_for_Improved_Inference-Time_Uncertainty_Estimation_CVPR_2025_paper.pdf) |
+
 ## License
 
 The code is under [Apache-2.0 License](./LICENSE).
@@ -99,7 +107,7 @@ If you find this work useful, please consider citing us:
 }
 ```
 
-`DISCLAIMER`: This repository is inspired by MedMNIST APIs and the ImageNet-C repository. Thus, please also consider citing [MedMNIST](https://www.nature.com/articles/s41597-022-01721-8), the respective source datasets (described [here](https://medmnist.com/)) and [ImageNet-C](https://arxiv.org/abs/1903.12261). 
+`DISCLAIMER`: This repository is inspired by MedMNIST APIs and the ImageNet-C repository. Thus, please also consider citing [MedMNIST](https://www.nature.com/articles/s41597-022-01721-8), the respective source datasets (described [here](https://medmnist.com/)) and [ImageNet-C](https://arxiv.org/abs/1903.12261).  
 
 ## Release versions
 
