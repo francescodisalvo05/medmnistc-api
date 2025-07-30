@@ -82,10 +82,13 @@ augmented_img = aug_compose(images[0])
 
 | **Authors**  | **Paper** | **Venue** | 
 | ------------- | ------------- | ------------- |
+| Kuhn et al.  | An autonomous agent for auditing and improving the reliability of clinical AI models | [ArXiv'25](https://arxiv.org/pdf/2507.05755) |
 | Manzari et al.  | Medical image classification with kan-integrated transformers and dilated neighborhood attention | [ArXiv'25](https://arxiv.org/abs/2502.13693) |
 | Imam et al.  | On the Robustness of Medical Vision-Language Models: Are they Truly Generalizable? | [MIUA'25](https://arxiv.org/abs/2505.15425) | 
 | Zeevi et al.  | Rate-In: Information-Driven Adaptive Dropout Rates for Improved Inference-Time Uncertainty Estimation | [CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/papers/Zeevi_Rate-In_Information-Driven_Adaptive_Dropout_Rates_for_Improved_Inference-Time_Uncertainty_Estimation_CVPR_2025_paper.pdf) |
 | Hekler et al.  | Beyond Overconfidence: Foundation Models Redefine Calibration in Deep Neural Networks | [ArXiv'25](https://www.arxiv.org/abs/2506.09593) |
+| Abhishek et al.  | Investigating the Quality of DermaMNIST and Fitzpatrick17k Dermatological Image Datasets | [Scientific Data'25](https://www.nature.com/articles/s41597-025-04382-5) |
+| Singh et al.  | Dynamic Filter Application in Graph Convolutional Networks for Enhanced Spectral Feature Analysis and Class Discrimination in Medical Imaging | [IEEE Access'24](https://ieeexplore.ieee.org/document/10637462) |
 
 ## License
 
